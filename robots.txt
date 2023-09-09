@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://benterry.ai/al-folio/sitemap.xml
+Sitemap: https://benterry.ai/sitemap.xml
