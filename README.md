@@ -1,8 +1,6 @@
 ## Hi, I'm Ben Terry 👋
 A Healthcare Analytics Leader Transforming Data into Strategic Impact
 
-[Professional Headshot Space]
-
 ## About Me
 I turn healthcare's most complex data challenges into strategic victories. With over 20 years at the intersection of healthcare and analytics, I've pioneered solutions that have revolutionized how organizations harness their data potential. My work has directly impacted patient outcomes while delivering multi-million dollar value to healthcare organizations.
 
@@ -24,9 +22,7 @@ I'm always open to discussing:
 - Technical advisory roles
 
 ## Latest Insights
-[Blog/Article Title 1]
-[Blog/Article Title 2]
-[Blog/Article Title 3]
+
 
 ## Connect With Me
 📧 [Email]
